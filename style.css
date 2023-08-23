@@ -1,0 +1,13 @@
+  p{
+    font-size:x-large;
+    text-align: center;
+  }
+  h1{
+    font-family: 'Lucida Sans';
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-decoration-color: rgb(0, 0, 0);
+  }
+body{
+  text-align: center;
+}
